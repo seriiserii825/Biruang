@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto-BoldCondensed';
+  src:url('Roboto-BoldCondensed.woff') format('woff'),
+      url('Roboto-BoldCondensed.ttf') format('truetype'),
+      url('Roboto-BoldCondensed.svg#Roboto-BoldCondensed') format('svg')б
+      url('roboto-condensed-bold.eot');
+      url('roboto-condensed-bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'roboto-condensed-bold';
+  src: url('roboto-condensed-bold.eot');
+  src: url('roboto-condensed-bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

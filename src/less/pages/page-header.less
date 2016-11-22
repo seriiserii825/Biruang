@@ -1,0 +1,92 @@
+.page-header-top{
+	padding: 35px 0;
+	border-bottom: 1px solid @borderColor;
+	.logo{
+		float: left;
+		width: 100px;
+	}
+	.contact-basket{
+		float: right;
+		min-width: 300px;
+		font-size: 0;
+		text-align: right;
+	}
+	.contact-item{
+		.inline-block;
+		font-size: 12px;
+		color: @gray;
+	}
+	.header-phone{
+		margin-right: 24px;
+		padding-left: 23px;
+		height: 32px;
+		line-height: 32px;
+		&::before{
+			content: "";
+			position: relative;
+			top: 4px;
+			left: -4px;
+			display: inline-block;
+			.phone;
+		}
+	}
+	.header-basket{
+		padding-left: 18px;
+		padding-right: 26px;
+		height: 30px;
+		line-height: 30px;
+		border: 1px solid @borderColor;
+		a{
+			margin-left: 37px;
+			text-transform: uppercase;
+			color: inherit
+		}
+	}
+}
+.page-header-bottom{
+	.main-menu{
+		float: left;
+		min-width: 500px;
+		li{
+			.inline-block;
+			margin-left: -4px;
+		}
+		li:first-child{
+			margin-left: 0;
+		}
+		a{
+			display: block;
+			padding: 0 20px;
+			height: 40px;
+			line-height: 40px;
+			text-transform: uppercase;
+			color: @gray;
+			transition: all .3s;
+			&:hover{
+				background: darken(@white,5%);
+			}
+		}
+		a.active{
+			color: @red;
+		}
+	}
+	.search-block{
+		float: left;
+		position: relative;
+		padding-left: 20px;
+		min-width: 200px;
+		height: 40px;
+		line-height: 40px;
+		&::before{
+			content: "";
+			position: absolute;
+			top: 13px;
+			left: 0;
+			display: block;
+			.search;
+		}
+		input{
+			border: none;
+		}
+	}
+}

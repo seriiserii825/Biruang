@@ -1,0 +1,260 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Ronboto/Roboto-Regular.woff') format('woff'), url('../fonts/Ronboto/Roboto-Regular.ttf') format('truetype'), url('../fonts/Ronboto/Roboto-Regular.svg#Roboto-Regular') format('svg'), url('Roboto.eot'), url('../fonts/Ronboto/Roboto.woff2') format('woff2'), url('../fonts/Ronboto/Roboto.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Robotobold/Roboto-Bold.woff') format('woff'), url('../fonts/Robotobold/Roboto-Bold.ttf') format('truetype'), url('../fonts/Robotobold/Roboto-Bold.svg#Roboto-Bold') format('svg'), url('../fonts/Robotobold/Robotobold.eot'), url('../fonts/Robotobold/Robotobold.woff2') format('woff2'), url('../fonts/Robotobold/Robotobold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Robotoitalic/Roboto-Italic.woff') format('woff'), url('../fonts/Robotoitalic/Roboto-Italic.ttf') format('truetype'), url('../fonts/Robotoitalic/Roboto-Italic.svg#Roboto-Italic') format('svg'), url('../fonts/Robotoitalic/Robotoitalic.eot'), url('../fonts/Robotoitalic/Robotoitalic.woff2') format('woff2'), url('../fonts/Robotoitalic/Robotoitalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('Roboto-Medium.woff') format('woff'), url('Roboto-Medium.ttf') format('truetype'), url('Roboto-Medium.svg#Roboto-Medium') format('svg'), url('Robotomedium.eot'), url('Robotomedium.woff2') format('woff2'), url('Robotomedium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'RobotoCondensed';
+  src: url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.woff') format('woff'), url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.ttf') format('truetype'), url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.svg#RobotoCondensed-Regular') format('svg'), url('../fonts/RobotoCondensed-Regular/roboto-condensed-regular.eot'), url('../fonts/RobotoCondensed-Regular/roboto-condensed-regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Condensed';
+  src: url('../fonts/Roboto-Bold-Condensed/Roboto-BoldCondensed.woff') format('woff'), url('../fonts/Roboto-Bold-Condensed/Roboto-BoldCondensed.ttf') format('truetype'), url('../fonts/Roboto-Bold-Condensed/Roboto-BoldCondensed.svg#Roboto-BoldCondensed') format('svg'), url('../fonts/Roboto-Bold-Condensed/roboto-condensed-bold.eot'), url('../fonts/Roboto-Bold-Condensed/roboto-condensed-bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Condensed';
+  src: url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.woff') format('woff'), url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.ttf') format('truetype'), url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.svg#Roboto-CondensedItalic') format('svg'), url('../fonts/Roboto-Condensed-Italic/roboto-condensed-italic.eot'), url('../fonts/Roboto-Condensed-Italic/roboto-condensed-italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('../fonts/Roboto-Light/Roboto-Light.woff') format('woff'), url('../fonts/Roboto-Light/Roboto-Light.ttf') format('truetype'), url('../fonts/Roboto-Light/Roboto-Light.svg#Roboto-Light') format('svg'), url('../fonts/Roboto-Light/Robotolight.eot'), url('../fonts/Roboto-Light/Robotolight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('../fonts/Roboto-LightItalic/Roboto-LightItalic.eot');
+  src: url('../fonts/Roboto-LightItalic/Roboto-LightItalic.woff') format('woff'), url('../fonts/Roboto-LightItalic/Roboto-LightItalic.ttf') format('truetype'), url('../fonts/Roboto-LightItalic/Roboto-LightItalic.svg#Roboto-LightItalic') format('svg'), url('../fonts/Roboto-LightItalic/Roboto-LightItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: 'Roboto', Arial;
+  font-size: 14px;
+  background: #7e7f84;
+}
+.container {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 1150px;
+  background: #fff;
+  overflow: hidden;
+}
+a:hover,
+a {
+  text-decoration: none;
+}
+/*
+LESS variables are information about icon's compiled state, stored under its original file name
+
+.icon-home {
+  width: @icon-home-width;
+}
+
+The large array-like variables contain all information about a single icon
+@icon-home: x y offset_x offset_y width height total_width total_height image_path name;
+
+At the bottom of this section, we provide information about the spritesheet itself
+@spritesheet: width height image @spritesheet-sprites;
+*/
+/*
+The provided classes are intended to be used with the array-like variables
+
+.icon-home {
+  .sprite-width(@icon-home);
+}
+.icon-email {
+  .sprite(@icon-email);
+}
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+/*
+The `.sprites` mixin generates identical output to the CSS template
+  but can be overridden inside of LESS
+
+This must be run when you have at least 2 sprites.
+  If run with a single sprite, then there will be reference errors.
+
+.sprites(@spritesheet-sprites);
+*/
+.title {
+  font-family: 'RobotoCondensed', Arial;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #f45a40;
+}
+/* fontst
+==================================== */
+/* color
+======================================== */
+/* bg
+=================================== */
+/* border
+=========================== */
+.phone {
+  background-image: url(../img/sprite.png);
+  background-position: -31px 0px;
+  width: 16px;
+  height: 16px;
+}
+.basket {
+  background-image: url(../img/sprite.png);
+  background-position: -57px 0px;
+  width: 16px;
+  height: 16px;
+}
+.search {
+  background-image: url(../img/sprite.png);
+  background-position: -26px -39px;
+  width: 14px;
+  height: 14px;
+}
+/* page-header
+================================== */
+.page-header-top {
+  padding: 35px 0;
+  border-bottom: 1px solid #f2f2f2;
+}
+.page-header-top .logo {
+  float: left;
+  width: 100px;
+}
+.page-header-top .contact-basket {
+  float: right;
+  min-width: 300px;
+  font-size: 0;
+  text-align: right;
+}
+.page-header-top .contact-item {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+  color: #7e7f84;
+}
+.page-header-top .header-phone {
+  margin-right: 24px;
+  padding-left: 23px;
+  height: 32px;
+  line-height: 32px;
+}
+.page-header-top .header-phone::before {
+  content: "";
+  position: relative;
+  top: 4px;
+  left: -4px;
+  display: inline-block;
+  background-image: url(../img/sprite.png);
+  background-position: -31px 0px;
+  width: 16px;
+  height: 16px;
+}
+.page-header-top .header-basket {
+  padding-left: 18px;
+  padding-right: 26px;
+  height: 30px;
+  line-height: 30px;
+  border: 1px solid #f2f2f2;
+}
+.page-header-top .header-basket a {
+  margin-left: 37px;
+  text-transform: uppercase;
+  color: inherit;
+}
+.page-header-bottom .main-menu {
+  float: left;
+  min-width: 500px;
+}
+.page-header-bottom .main-menu li {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: -4px;
+}
+.page-header-bottom .main-menu li:first-child {
+  margin-left: 0;
+}
+.page-header-bottom .main-menu a {
+  display: block;
+  padding: 0 20px;
+  height: 40px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #7e7f84;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.page-header-bottom .main-menu a:hover {
+  background: #f2f2f2;
+}
+.page-header-bottom .main-menu a.active {
+  color: #f45a40;
+}
+.page-header-bottom .search-block {
+  float: left;
+  position: relative;
+  padding-left: 20px;
+  min-width: 200px;
+  height: 40px;
+  line-height: 40px;
+}
+.page-header-bottom .search-block::before {
+  content: "";
+  position: absolute;
+  top: 13px;
+  left: 0;
+  display: block;
+  background-image: url(../img/sprite.png);
+  background-position: -26px -39px;
+  width: 14px;
+  height: 14px;
+}
+.page-header-bottom .search-block input {
+  border: none;
+}

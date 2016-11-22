@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight\t(_mixins.less)"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"main-content",
+				"main-content-bottom\t(index.html)"
+			],
+			[
+				"aside",
+				"aside-item\t(index.html)"
+			],
+			[
+				"input",
+				"input-mail\t(index.html)"
+			],
+			[
+				"right",
+				"right-arrow\t(index.html)"
+			],
+			[
+				"article",
+				"article-title\t(index.html)"
+			],
+			[
+				"ar",
+				"article-header\t(index.html)"
+			],
+			[
+				"tex",
+				"text-decoration\t(base.less)"
+			],
+			[
+				"clear",
+				"clearfix\t(base.less)"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"show",
+				"show-menu"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sp",
+				"spriteCreator"
+			],
+			[
+				"css",
+				"cssCreator"
+			],
+			[
+				"imp",
+				"imports\t(gulpfile.js)"
+			],
+			[
+				"feature-",
+				"feature-item\t(index.html)"
+			],
+			[
+				"slider",
+				"slider-images"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"icon",
+				"icon-daily-news"
+			],
+			[
+				"icon-menu",
+				"icon-menu-item"
+			],
+			[
+				"check",
+				"check-field"
+			],
+			[
+				"fig",
+				"figcaption\t(sidebar.html)"
+			],
+			[
+				"rating-text",
+				"rating-text-maket\t(_mixins.less)"
+			],
+			[
+				"box-img",
+				"box-img-inner\t(sidebar.html)"
+			],
+			[
+				"sec",
+				"section-prev"
+			],
+			[
+				"po",
+				"popular-news"
+			],
+			[
+				"c",
+				"capitalize"
+			],
+			[
+				"p",
+				"popular-news"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"popular",
+				"popular-news\t(sidebar.html)"
+			],
+			[
+				"menu",
+				"menu-primary"
+			],
+			[
+				"sprite",
+				"sprite:build"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"item",
+				"item-all-categories"
+			],
+			[
+				"icon-a",
+				"icon-arrow-down\t(_icons.less)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"tag re",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Helper: Show Palettes"
+			],
+			[
+				"color he",
+				"Color Helper: Index Colors in File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime eror",
+				"SublimeLint: Next Error"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lintershowa",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintershow",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"all pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git com",
+				"Git: Commit history"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cs ",
+			"ls -l",
+			"git init",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/My sites/Biruang",
+		"/E/My sites/Biruang/src",
+		"/E/My sites/Biruang/src/fonts",
+		"/E/My sites/Biruang/src/less",
+		"/E/My sites/Biruang/src/less/imports",
+		"/E/My sites/Biruang/src/pages"
+	],
+	"file_history":
+	[
+		"/E/My sites/Biruang/src/less/imports/variables.less",
+		"/E/шрифты/roboto/onlinefontconverter.com/onlinefontconverter.com/Robotoitalic/font.css",
+		"/E/My sites/Biruang/src/less/imports/_settings.less",
+		"/E/My sites/Biruang/src/less/imports/fonts.less",
+		"/E/My sites/Golden_Page/src/less/imports/fonts.less",
+		"/E/My sites/first-landing/src/css/_fonts.less",
+		"/E/My sites/Blog/src/less/imports/fonts.less",
+		"/E/шрифты/roboto/Roboto/font.css",
+		"/E/шрифты/roboto/Robotobold/font.css",
+		"/E/шрифты/roboto/Robotomedium/font.css",
+		"/E/шрифты/roboto/Robotoblackitalic/font.css",
+		"/E/My sites/Biruang/src/less/reset.css",
+		"/E/My sites/Maket/src/reset.css",
+		"/E/My sites/Blog/blog.sublime-project",
+		"/E/My sites/Blog/build/css/reset.css",
+		"/E/My sites/reset.css",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Installed Packages/Color Highlighter.sublime-package",
+		"/E/My sites/Blog/src/less/style.less",
+		"/E/My sites/Blog/gulpfile.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/Heroes & Generals/hngsync.exe",
+		"/E/My sites/Blog/package.json",
+		"/E/My sites/Blog/src/fonts/Pt_Sans_bold/PTSans-Bold.woff",
+		"/E/My sites/Blog/src/less/imports/variables.less",
+		"/E/My sites/Blog/src/pages/page-header.less",
+		"/E/My sites/Blog/src/less/imports/_mixins.less",
+		"/E/My sites/Blog/src/less/reset.css",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/My sites/Blog/src/blog.sublime-project",
+		"/E/My sites/Blog/src/less/imports/sprite.less",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/E/My sites/Golden_Page/src/less/reset.css",
+		"/E/My sites/Golden_Page/gulpfile.js",
+		"/E/My sites/Golden_Page/src/templates/page-header.html",
+		"/E/My sites/Golden_Page/src/pages/page-header.less",
+		"/E/My sites/Golden_Page/src/less/imports/_settings.less",
+		"/E/My sites/Golden_Page/src/less/imports/_mixins.less",
+		"/E/My sites/Golden_Page/src/less/imports/variables.less",
+		"/E/My sites/Golden_Page/build/css/style.css",
+		"/E/My sites/NatGeo/gulpfile.js",
+		"/E/My sites/Golden_Page/build/index.html",
+		"/E/My sites/NatGeo/src/index.html",
+		"/E/My sites/Golden_Page/src/fonts/Pt_Sans_italic/font.css",
+		"/E/My sites/Golden_Page/src/fonts/Pt_Sans/font.css",
+		"/E/My sites/Golden_Page/src/reset.css",
+		"/E/My sites/Golden_Page/.gitignore",
+		"/E/My sites/Golden_Page/package.json",
+		"/C/Users/serii/Desktop/adaptive/gulpfile.js",
+		"/E/My sites/NatGeo/package.json",
+		"/E/My sites/Lookshop/gulpfile.js",
+		"/C/Users/serii/Desktop/adaptive/reset.css",
+		"/E/My sites/Lookshop/src/less/reset.css",
+		"/E/My sites/Lookshop/src/less/imports/elements.less",
+		"/E/My sites/Lookshop/src/templates/head.html",
+		"/E/My sites/Lookshop/src/less/style.less",
+		"/E/My sites/Lookshop/src/less/imports/page-header.less",
+		"/E/My sites/Lookshop/src/less/imports/_mixins.less",
+		"/E/My sites/Lookshop/src/less/imports/variable.less",
+		"/E/My sites/Lookshop/build/css/style.css",
+		"/E/My sites/Maket/Lookshop/gulpfile.js",
+		"/E/My sites/Lookshop/build/css/general.css",
+		"/E/My sites/Lookshop/src/less/imports/fonts.less",
+		"/E/My sites/Lookshop/src/end.html",
+		"/E/My sites/Lookshop/src/less/imports/sprite.less",
+		"/E/шрифты/Helvetica/HelveticaNeueCyr-Light/font.css",
+		"/E/My sites/Lookshop/.gitignore",
+		"/E/courses/Valaak/html_template — копия/src/templates/end.html",
+		"/E/courses/Valaak/html_template — копия/src/templates/head.html",
+		"/E/My sites/NatGeo/.gitignore",
+		"/E/My sites/first-landing/gulpfile.js",
+		"/E/My sites/Lookshop/src/less/imports/grid.less",
+		"/E/My sites/Lookshop/src/less/imports/_settings.less",
+		"/E/My sites/Lookshop/src/less/sprite.less",
+		"/E/My sites/Lookshop/src/fonts",
+		"/E/My sites/Lookshop/src/reset.css",
+		"/E/My sites/Lookshop/src/templates",
+		"/E/My sites/Lookshop/package.json",
+		"/E/My sites/Lookshop/src/pages",
+		"/E/My sites/NatGeo/src/templates/footer.html",
+		"/C/Users/serii/Desktop/test/src/css/style.css",
+		"/C/Users/serii/Desktop/test/src",
+		"/C/Users/serii/Desktop/test/src/img",
+		"/C/Users/serii/Desktop/test/src/index.html",
+		"/E/My sites/NatGeo/src/css/pages/aside.less",
+		"/E/My sites/NatGeo/src/css/pages/slider.less",
+		"/E/My sites/NatGeo/src/templates/gallery.html",
+		"/E/My sites/NatGeo/src/templates/slider.html",
+		"/E/My sites/NatGeo/src/css/_variables.less",
+		"/E/My sites/NatGeo/src/templates/sidebar.html",
+		"/E/My sites/NatGeo/src/css/_icons.less",
+		"/E/My sites/NatGeo/src/templates/icon-menu.html",
+		"/E/My sites/NatGeo/src/css/pages/icons-menu.less",
+		"/E/My sites/NatGeo/src/pages/icon-menu.less",
+		"/E/My sites/NatGeo/src/css/pages/icon-menu.less",
+		"/E/My sites/NatGeo/src/templates/slider.html+gallery",
+		"/E/My sites/NatGeo/node_modules/gulp.spritesmith/node_modules/spritesmith/node_modules/pixelsmith/node_modules/get-pixels/node_modules/pngjs/.idea/node-pngjs2.iml",
+		"/E/My sites/NatGeo/build/index.html",
+		"/E/My sites/NatGeo/build/css/sprite-yellow.css",
+		"/E/My sites/NatGeo/src/css/pages/page-header.less",
+		"/E/My sites/NatGeo/build/css/style.css",
+		"/E/My sites/NatGeo/src/css/pages/menu.less",
+		"/E/My sites/NatGeo/src/css/_elements.less",
+		"/E/My sites/NatGeo/build/img/sprite-yellow.png",
+		"/E/My sites/NatGeo/build/css/sprite.css",
+		"/E/My sites/NatGeo/build/img/sprite.png",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/My sites/NatGeo/_icons.less",
+		"/E/My sites/NatGeo/src/css/_fonts.less",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/serii/Desktop/test/index.html",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"section",
+			"</html>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.872244897959,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 272.0
+	},
+	"pinned_build_system": "",
+	"project": "biruang.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reset",
+				"build\\css\\reset.css"
+			],
+			[
+				"base",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"style.le",
+				"src\\less\\style.less"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"fonts/l",
+				"src\\fonts\\Pt_Sans_bold\\PTSans-Bold.woff"
+			],
+			[
+				"page",
+				"src\\pages\\page-header.less"
+			],
+			[
+				"sy",
+				"src\\less\\style.less"
+			],
+			[
+				"ind",
+				"src\\index.html"
+			],
+			[
+				"sty",
+				"src\\less\\style.less"
+			],
+			[
+				"font",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"blo",
+				"src\\blog.sublime-project"
+			],
+			[
+				"s",
+				"package.json"
+			],
+			[
+				"sprite.png",
+				"node_modules\\gulp.spritesmith\\node_modules\\spritesmith\\node_modules\\pixelsmith\\node_modules\\get-pixels\\node_modules\\pngjs\\.idea\\node-pngjs2.iml"
+			],
+			[
+				"sprite.css",
+				"build\\css\\sprite.css"
+			],
+			[
+				"sidebar",
+				"src\\templates\\sidebar.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

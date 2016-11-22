@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto-CondensedItalic';
+  src:url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.woff') format('woff'),
+      url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.ttf') format('truetype'),
+      url('../fonts/Roboto-Condensed-Italic/Roboto-CondensedItalic.svg#Roboto-CondensedItalic') format('svg'),
+      url('../fonts/Roboto-Condensed-Italic/roboto-condensed-italic.eot');
+      url('../fonts/Roboto-Condensed-Italic/roboto-condensed-italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'roboto-condensed-italic';
+  src: url('roboto-condensed-italic.eot');
+  src: url('roboto-condensed-italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('Roboto-Medium.woff') format('woff'),
+       url('Roboto-Medium.ttf') format('truetype'),
+       url('Roboto-Medium.svg#Roboto-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Robotomedium';
+  src: url('Robotomedium.eot');
+  src: url('Robotomedium.woff2') format('woff2'),
+       url('Robotomedium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
