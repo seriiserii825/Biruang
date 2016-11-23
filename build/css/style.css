@@ -65,13 +65,14 @@
 body {
   font-family: 'Roboto', Arial;
   font-size: 14px;
-  background: #7e7f84;
+  line-height: 21px;
+  color: #7e7f84;
+  background: #fff;
 }
 .container {
   margin: 0 auto;
   padding: 0 10px;
   max-width: 1150px;
-  background: #fff;
   overflow: hidden;
 }
 a:hover,
@@ -380,4 +381,138 @@ This must be run when you have at least 2 sprites.
 .popular-container .popular-footer .plus {
   float: right;
   min-width: 10px;
+}
+/* about
+============================================== */
+.about h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: #67686d;
+}
+.about-text {
+  float: left;
+  padding-top: 35px;
+  width: 700px;
+}
+.about-text p {
+  margin-bottom: 28px;
+  font-size: 14px;
+  line-height: 21px;
+  font-style: italic;
+  color: #7e7f84;
+}
+.about-map {
+  float: right;
+  width: 400px;
+  height: 315px;
+  overflow: hidden;
+}
+/* sign-up
+==========================================*/
+.sign-up {
+  padding: 34px 0;
+  background: #f45a40;
+}
+.sign-up h2 {
+  float: left;
+  margin-top: 10px;
+  min-width: 100px;
+  font-family: 'RobotoCondensed', Arial;
+  font-weight: bold;
+  color: #fff;
+}
+.sign-up .sing-up-form {
+  float: right;
+  min-width: 50px;
+}
+.sign-up input {
+  padding: 0 23px;
+  height: 38px;
+  line-height: 38px;
+  font-size: 14px;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+}
+.sign-up input[type="email"] {
+  width: 200px;
+  color: #7e7f84;
+}
+.sign-up input[type="submit"] {
+  margin-left: 20px;
+  width: 104px;
+  color: #fff;
+  background: #ff674f;
+}
+/* footer
+============================================ */
+.page-footer {
+  padding: 45px 0;
+  background: #2a2d34;
+}
+.page-footer .title {
+  margin-bottom: 24px;
+  color: #fff;
+}
+.page-footer .footer-item {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 26px;
+  width: 265px;
+}
+.page-footer .footer-item:first-child {
+  margin-left: 0;
+}
+.page-footer .our-stories p {
+  margin-bottom: 30px;
+}
+.page-footer .blog-posts h5 {
+  font-family: 'Roboto-Medium', Arial;
+  color: #fff;
+}
+.page-footer .blog-posts p {
+  margin-bottom: 20px;
+}
+.page-footer .support ul {
+  display: inline-block;
+  vertical-align: top;
+}
+.page-footer .support ul:first-child {
+  margin-right: 20px;
+}
+.page-footer .support a {
+  color: #7e7f84;
+}
+.page-footer .support a:hover {
+  text-decoration: underline;
+}
+.page-footer .contact-us input[type="email"] {
+  margin-bottom: 20px;
+  padding-left: 20px;
+  width: 100%;
+  height: 34px;
+  line-height: 34px;
+  text-transform: uppercase;
+  box-sizing: border-box;
+}
+.page-footer .contact-us textarea {
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  width: 100%;
+  font-family: 'Roboto', Arial;
+  font-size: 12px;
+  color: #7e7f84;
+  box-sizing: border-box;
+  text-transform: uppercase;
+}
+.page-footer .contact-us input[type="submit"] {
+  width: 138px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  background: #f45a40;
+  border: none;
+  outline: none;
 }
